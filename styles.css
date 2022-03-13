@@ -43,9 +43,12 @@ header {
 }
 
 .header-welcome, .header2-welcome, .header3-welcome {
-    border: 2px solid purple;
     flex: 1;
     font-family: 'Apple Chancery', cursive;
+}
+
+.header-welcome {
+    font-size: 60px;
 }
 
 .weed-jar {
