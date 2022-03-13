@@ -1,0 +1,61 @@
+/* Style Page for Home-Menu by Sam (and Rachel) */
+
+* {
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 15px;
+    margin: 15px;
+    border: 15px solid gold;
+    
+}
+
+.actual-menu-png {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: auto;
+}
+
+
+.actual-printable-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div {
+    border: 2px solid purple;
+    padding: 10px;
+}
+
+header {
+    border: 2px solid purple;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.header-welcome, .header2-welcome, .header3-welcome {
+    border: 2px solid purple;
+    flex: 1;
+    font-family: 'Apple Chancery', cursive;
+}
+
+.weed-jar {
+    border: 3px solid gold;
+    border-radius: 100px;
+    background-color: green;
+    color: gold;
+    width: 4rem;
+    padding: 4px;
+}
+
+
+overall black and white and green and gold
