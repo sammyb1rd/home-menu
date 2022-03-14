@@ -51,6 +51,17 @@ header {
     font-size: 60px;
 }
 
+.container-method-options {
+    font-variant: small-caps;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.method {
+    font-size: larger;
+}
+
 .weed-jar {
     border: 3px solid gold;
     border-radius: 100px;
@@ -60,5 +71,18 @@ header {
     padding: 4px;
 }
 
+.weed-menu-thc, .weed-menu-cbd{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-weed {
+    display: flex;
+    justify-content: space-around;
+}
+
+.weed-descripton {
+    width: 18px;
+}
 
 overall black and white and green and gold
