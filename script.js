@@ -6,3 +6,13 @@ function opening() {
 };
 
 console.log(`welcome test 1`)
+
+opening();
+
+//get the data from whereever
+
+//create a function that makes menu items
+
+//input data into function or update
+
+//sounds like constructor
